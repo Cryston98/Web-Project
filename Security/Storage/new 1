@@ -1,0 +1,6 @@
+while read linie
+do
+[a-zA-Z]*(\.?[a-zA-Z0-9]+)*
+done < fil.txt
+
+alias chrome='/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe /c "chrome"'

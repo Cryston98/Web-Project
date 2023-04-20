@@ -1,0 +1,8 @@
+
+
+            <h2> Jurnal</h2>
+
+            <p>Aici poti adauga o nota sau o pagina de jurnal.
+            </p>
+
+          

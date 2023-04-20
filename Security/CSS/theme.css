@@ -1,0 +1,175 @@
+body{
+	background:url('../Images/hack.jpg');
+    background-size: 100% 100%;
+}
+
+form#newSubscriber {
+    background: rgb(250,0,0,0.4);
+    border: 1px solid white;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 4px;
+}
+input#EMAIL {
+   font-weight: bold;
+    padding: 10px;
+    width: 84%;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 0px;
+    font-family: serif;
+    height: 30px;
+    color: #980000;
+    line-height: 30px;
+}
+button#btnsendEmail {
+    height: 31px;
+    padding: 5px;
+    width: 14%;
+    font-size: smaller;
+    border-radius: 2px;
+    background: green;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+}
+form#newSubscriber select {
+    height: 30px;
+    margin: 10px 0px 0px 0px;
+    width: 49%;
+    border: 0px;
+}
+
+#titleDiv{
+border: 1px solid #000;
+    height: 35px;
+    padding: 5px;
+    font-size: 12px;
+    display: inline-table;
+    margin: 5px;
+	}
+
+
+	#wrapper-menu{
+	    margin: 30px 20px;
+		width: 700px;
+		height: 400px;
+		border: 2px solid #fff;
+		border-radius: 5px;
+		background: rgb(0,0,0,0.4);
+	}
+
+	#wrapper-history{
+	margin: 10px 20px;
+    width: 700px;
+    height: 200px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+	background: rgb(0,0,0,0.4);
+	}
+	#wrapper-file{
+		margin: 30px 20px;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 570px;
+		height: 633px;
+		border: 2px solid #fff;
+		border-radius: 5px;
+		background: rgb(0,0,0,0.4);
+
+	}
+	#error{
+		width: 40px;
+    position: absolute;
+    height: 40px;
+    background: url(error.png);
+    background-size: 100% 100%;
+    top: 5px;
+    left: 70px;
+	}
+
+	h3#error_val {
+    left: 50px;
+    color: red;
+    float: left;
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+    padding: 0px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+
+	#control-menu{
+	position: relative;
+    height: 50px;
+    line-height: 50px;
+    background: white;
+    width: 100%;
+    border-bottom: 2px solid #06a419;
+	}
+	#bt1{
+		height: 45px;
+		width: 45px;
+		border-radius: 50px;
+		border: 2px solid #12da00;
+		background: #2d2626;
+		margin: 2px 10px;
+		text-align: center;
+		line-height: 35px;
+		outline: none;
+		color: white;
+		cursor: pointer;
+	}
+
+	#progress-bar1{
+		position: absolute;
+    right: 1px;
+    top: 1px;
+    width: 520px;
+    height: 27px;
+    background: white;
+	}
+	
+	#progress-bar1 input{
+		padding: 0px;
+		margin: 1px 3px;
+		height: 20px;
+		width: 163px;
+		float: left;
+		
+	}
+	#progress-bar2 #barProg {
+		    border: 1px solid black;
+			width: 90%;
+			display: block;
+    float: left;
+			background: #ececec;
+			height: 10px;
+			margin: 5px;
+			border-radius: 5px;
+}
+	
+	#progress-bar2 hr{
+			background: #07ea07;
+			height: 10px;
+			margin: 0px;
+			border-radius: 5px;
+			border: 0px;
+	}
+	
+	#progress-bar2{
+	   position: absolute;
+    right: 1px;
+    top: 30px;
+    width: 520px;
+    height: 20px;
+    background: white;
+    font-size: 14px;
+    line-height: 25px;
+	}
+#LinkListID{
+	color:white;
+}

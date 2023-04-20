@@ -1,0 +1,1 @@
+Eroare : Field 'USER' doesn't have a default value\nEroare : Incorrect integer value: '' for column 'PRIORITY' at row 1\n
