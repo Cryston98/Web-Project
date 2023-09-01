@@ -5,7 +5,7 @@ Proiect web pentru gestionarea si salvarea link-uri utile. Posibilitatea de a cr
 ![IMAGE_DESCRIPTION](2%20-%20singup.JPG)
 ![IMAGE_DESCRIPTION](3%20-%20module.JPG)
 ![IMAGE_DESCRIPTION](4%20-%20submodule.JPG)
-![IMAGE_DESCRIPTION](5%20-%20creare%20module.JPG)
+![IMAGE_DESCRIPTION](5%20-%20create%20module.JPG)
 ![IMAGE_DESCRIPTION](6%20-%20pagina%20de%20curs.JPG)
 
 ![IMAGE_DESCRIPTION](1.JPG)
